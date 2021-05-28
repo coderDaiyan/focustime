@@ -47,9 +47,9 @@ const styles = StyleSheet.create({
   title: {
     color: "white",
     fontSize: fontSize.lg,
-    clearContainer: {
-      alignItems: "center",
-      padding: spacings.md,
-    },
+  },
+  clearContainer: {
+    alignItems: "center",
+    padding: spacings.md,
   },
 });
